@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION=152.0.0
+VERSION=155.0.0
 
 ## Usage:
 ## curl https://gist.githubusercontent.com/schurig/f1a48c1ffe63131a2b5f61a92abc98df/raw/semaphore_ci_gcloud_prepare.sh | sh
